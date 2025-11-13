@@ -1,0 +1,11 @@
+theme = "gruvbox"
+
+[editor]
+bufferline = "multiple"
+line-number = "relative"
+completion-timeout = 50
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
